@@ -35,7 +35,7 @@ This project leverages Qlik's data analytics capabilities to transform LendingCl
 
 ## Conclusion
 This project provides a comprehensive data analytics framework to optimize lending strategies, driving business growth and enhancing competitive advantage.
-
+**Video Link:** [Explanation]([https://www.kaggle.com/datasets/husainsb/lendingclub-issued-loans](https://drive.google.com/file/d/1YjiwCW_lDEAQFZxzBjDvJ5G55oy7TbIb/view?usp=drive_link))
 ---
 
 For more details, please refer to the full [Project Documentation](./Project%20Documentation.pdf).
