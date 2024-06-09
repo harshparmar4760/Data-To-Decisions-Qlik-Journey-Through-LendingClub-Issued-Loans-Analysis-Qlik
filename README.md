@@ -15,7 +15,7 @@ This project leverages Qlik's data analytics capabilities to transform LendingCl
 - **LendingClub Issued Loans (2007-2017)**
 - **Dataset Link:** [LendingClub Issued Loans on Kaggle](https://www.kaggle.com/datasets/husainsb/lendingclub-issued-loans)
 - **Cleaned Dataset Link:** [Prepared Dataset](https://drive.google.com/file/d/1PmKmofaGq8QZEQ9WmkXhYLEffQOHCbzB/view?usp=sharing)
-- **Qlik Dataset Link** [Dataset](https://ub9u0dhmiz873zm.uk.qlikcloud.com/dataset/666469277daf64f71e15e414)
+- **Qlik Dataset Link:** [Dataset](https://ub9u0dhmiz873zm.uk.qlikcloud.com/dataset/666469277daf64f71e15e414)
 
 
 ## Key Steps
